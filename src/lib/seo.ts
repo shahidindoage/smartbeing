@@ -28,111 +28,111 @@ const withSiteName = (title: string) =>
 
 export const seoRoutes: Record<string, SeoEntry> = {
   "/": {
-    title: `Voice Activated Technology for Hospitality & Healthcare | ${SITE_NAME}`,
+    title: `Next-Generation Agentic AI Assistants for a Smarter World`,
     description:
-      "Discover ai assistants for hospitality and healthcare with voice activated technology that simplify tasks and enhance user experiences.",
+      "Discover next-generation Agentic AI Assistants powered by Generative AI and Voice AI for intelligent automation and seamless experiences.",
     image: homeHeroImage,
     type: "website",
   },
   "/hospitality": {
-    title: `AI Technology in Hospitality Industry | ${SITE_NAME}`,
+    title: `AI Agents for Hotels & Agentic AI | ${SITE_NAME}`,
     description:
-      "Explore AI technology in the hospitality industry with intelligent voice assistants that streamline hotel operations and improve guest experiences.",
+      "Explore AI Agents for Hotels powered by Agentic AI to streamline hotel operations automation, enhance guest experiences, and simplify daily tasks.",
     image: hospitalityImage,
     type: "website",
   },
   "/products": {
-    title: `AI Technology in Hospitality Industry | ${SITE_NAME}`,
+    title: `AI Agents for Hotels & Agentic AI | ${SITE_NAME}`,
     description:
-      "Explore AI technology in the hospitality industry with intelligent voice assistants that streamline hotel operations and improve guest experiences.",
+      "Explore AI Agents for Hotels powered by Agentic AI to streamline hotel operations automation, enhance guest experiences, and simplify daily tasks.",
     image: hospitalityImage,
     type: "website",
   },
   "/healthcare": {
-    title: `Conversational AI for Healthcare Industry | ${SITE_NAME}`,
+    title: `Agentic AI for Healthcare | ${SITE_NAME}`,
     description:
-      "Enhance patient experiences and simplify healthcare workflows with conversational AI solutions designed for modern healthcare environments.",
+      "Explore Agentic AI and advanced voice recognition systems that simplify healthcare workflows, support medical staff, and enhance patient experiences.",
     image: healthcareImage,
     type: "website",
   },
   "/workplace": {
-    title: `Voice Activated Technology for Workplace | ${SITE_NAME}`,
+    title: `AI Copilot & Voice Recognition Technology | ${SITE_NAME}`,
     description:
-      "Transform workplace productivity with voice-activated technology and AI assistants that simplify everyday tasks and improve employee experiences.",
+      "Explore AI Copilot and voice recognition technology that simplify workplace tasks, improve team productivity, and enable smarter workplace experiences.",
     image: workplaceImage,
     type: "website",
   },
   "/blogs": {
-    title: `Blogs | ${SITE_NAME}`,
+    title: `SmartBeings Blog | AI Insights, Trends & Updates`,
     description:
-      "Insights on voice AI, hotel automation and the future of connected guest rooms from the team behind WooHoo®.",
+      "Explore the SmartBeings blog for the latest AI insights, industry trends, expert perspectives, and innovations in hospitality, healthcare, and workplace technology.",
     type: "website",
   },
   "/careers": {
-    title: `Careers | ${SITE_NAME}`,
+    title: `Careers at SmartBeings | Explore Job Opportunities`,
     description:
-      "Join SmartBeings and build the voice-first operating system for the physical enterprise. Open roles in channels, marketing, AI data, hardware and internships.",
+      "Explore career opportunities at SmartBeings and join a team building innovative AI solutions that transform hospitality, healthcare, and workplace experiences.",
     image: careersImage,
     type: "website",
   },
   "/x-series": {
-    title: `AI Technology in Hospitality Industry | ${SITE_NAME}`,
+    title: `AI Technology in Hospitality Industry | SmartBeings`,
     description:
       "Explore AI technology in the hospitality industry with intelligent voice assistants that streamline hotel operations and improve guest experiences.",
     image: xSeriesImage,
     type: "website",
   },
   "/y-series": {
-    title: `Conversational AI for Healthcare Industry | ${SITE_NAME}`,
+    title: `Conversational AI for Healthcare Industry | SmartBeings`,
     description:
       "Enhance patient experiences and simplify healthcare workflows with conversational AI solutions designed for modern healthcare environments.",
     image: ySeriesImage,
     type: "website",
   },
   "/z-series": {
-    title: `Voice Activated Technology for Workplace | ${SITE_NAME}`,
+    title: `Voice Activated Technology for Workplace | SmartBeings`,
     description:
       "Transform workplace productivity with voice-activated technology and AI assistants that simplify everyday tasks and improve employee experiences.",
     image: zSeriesImage,
     type: "website",
   },
   "/tablet": {
-    title: `AI for Hospitality Industry | ${SITE_NAME}`,
+    title: `AI for Hospitality Industry | SmartBeings`,
     description:
       "Discover AI solutions for the hospitality industry that streamline operations, personalize guest services, and support smarter hotel experiences.",
     image: tabletImage,
     type: "website",
   },
   "/qrcode": {
-    title: `AI for Hotels | ${SITE_NAME}`,
+    title: `AI for Hotels | SmartBeings`,
     description:
       "Improve hotel guest experiences with ai that simplify requests, deliver personalized recommendations, and support hotel services.",
     image: qrCodeImage,
     type: "website",
   },
   "/wellness-dashboard": {
-    title: `Voice Activated Technology for Healthcare Industry | ${SITE_NAME}`,
+    title: `Voice Activated Technology for Healthcare Industry | SmartBeings`,
     description:
       "Explore voice activated technology for healthcare to streamline workflows, support staff, and deliver smarter, more personalized patient experiences.",
     image: wellnessImage,
     type: "website",
   },
   "/soundboard": {
-    title: `AI Assistant for Healthcare Industry | ${SITE_NAME}`,
+    title: `AI Assistant for Healthcare Industry | SmartBeings`,
     description:
       "Simplify healthcare workflows with AI assistants that support staff, improve communication, and enhance patient experiences.",
     image: soundboardImage,
     type: "website",
   },
   "/meeting-room-tablet": {
-    title: `Voice Recognition Technology for Workplace | ${SITE_NAME}`,
+    title: `Voice Recognition Technology for Workplace | SmartBeings`,
     description:
       "Boost workplace efficiency with voice recognition technology that simplify daily tasks, provide instant information, and enhance employee productivity.",
     image: meetingRoomImage,
     type: "website",
   },
   "/avatar": {
-    title: `Generative AI for Workplace | ${SITE_NAME}`,
+    title: `Generative AI for Workplace | SmartBeings`,
     description:
       "Discover generative AI for the workplace with intelligent assistants that deliver instant answers, streamline tasks, and support better decision-making.",
     image: avatarImage,
